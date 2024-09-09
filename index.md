@@ -2,7 +2,8 @@
 layout: base
 title: Student Home 
 description: Home Page
-
+image: /images/mario_animation.png
+---
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->
@@ -19,12 +20,12 @@ description: Home Page
 <p id="mario" class="sprite"></p>
   
 <!--- Embedded Cascading Style Sheet (CSS) rules, 
-        define how HTML elements look 
+define how HTML elements look 
 --->
 <style>
 
-  /*CSS style rules for the id and class of the sprite...
-  */
+/*CSS style rules for the id and class of the sprite...
+*/
   .sprite {
     height: {{pixels}}px;
     width: {{pixels}}px;
@@ -210,13 +211,13 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
             position: absolute;
             top: 50%;
             left: 50%;
-            transform: translate(-30%, -330%); /* Centers text */
+            transform: translate(10%, -330%); /* Centers text */
         }
   .other {
             position: absolute;
             top: 50%;
             left: 50%;
-            transform: translate(0%, -965%); /* Centers text */
+            transform: translate(0%, -1200%); /* Centers text */
         }
   
   .dumb {
@@ -229,7 +230,7 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
 </style>
 <body>
     <div class="container">
-          <div class="center">I'm not sure what to put here</div>
+          <div class="center">I am a highly respectable young gentleman</div>
     </div>
 </body>
 
@@ -251,6 +252,8 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
 
 <body>
   <div class="container">
-    <div class="other">eefefeceece ef</div>
+    <div class="other">Salud</div>
   </div>
 </body>
+
+<img src="{{site.baseurl}}/images/Apple-Monkey-Bread-8-min-scaled.jpg" alt="Reading image" style="width:50%"/>
