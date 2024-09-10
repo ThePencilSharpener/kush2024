@@ -217,7 +217,7 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
             position: absolute;
             top: 50%;
             left: 50%;
-            transform: translate(0%, -1200%); /* Centers text */
+            transform: translate(0%, -1900%); /* Centers text */
         }
   
   .dumb {
@@ -227,12 +227,12 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
     border-radius: 5px;
     cursor: pointer;
   }
-</style>
 <body>
     <div class="container">
           <div class="center">I am a highly respectable young gentleman</div>
     </div>
 </body>
+</style>
 
 
 
@@ -250,6 +250,66 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
 </p>
 
 
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>
+</head>
+<body style="background-color:white;">
+
+<h2>Check out this dropdown!</h2>
+<p>Move the mouse over the button to open the dropdown menu.</p>
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="http://127.0.0.1:4100/student_2025/2024/09/10/github-playground-hack_IPYNB_2_.html">How I did this</a>
+    <a href="http://127.0.0.1:4100/student_2025/2024/09/10/github-javascript-cell_IPYNB_2_.html">Javascript cell</a>
+    <a href="http://127.0.0.1:4100/student_2025/2024/09/10/github-about-me_IPYNB_2_.html">About Me</a>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
 <body>
   <div class="container">
     <div class="other">Salud</div>
@@ -257,3 +317,6 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
 </body>
 
 <img src="{{site.baseurl}}/images/Apple-Monkey-Bread-8-min-scaled.jpg" alt="Reading image" style="width:50%"/>
+
+
+
