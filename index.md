@@ -238,11 +238,11 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
 
 
 
-<a href="https://cafedelites.com/chocolate-cake/">Cool Chocolate cake recipe</a>
+<button type="button" class="dumb" onclick="window.location.href='https://cafedelites.com/chocolate-cake/'">Click here to go to a Chocolate cake recpie</button>
 
 
 
-<a href="https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf">Drivers handbook to pass yout drivers permit</a>
+<button type="button" class="dumb" onclick="window.location.href='https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf'">Click here to go to a the DMV</button>
 
 
 <p>
