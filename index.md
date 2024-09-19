@@ -200,7 +200,7 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
 
 
 
-<button type="button" class="dumb" onclick="window.location.href='http://127.0.0.1:4100/student_2025/about/';">Click here to go to my About Me page!!</button>
+<button type="button" class="dumb" onclick="window.location.href='http://127.0.0.1:4100/student_2025/mypage/';">Click here to go to my Journey page!!</button>
 
 <style>
   .container {
@@ -316,7 +316,6 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
   </div>
 </body>
 
-<img src="{{site.baseurl}}/images/Apple-Monkey-Bread-8-min-scaled.jpg" alt="Reading image" style="width:50%"/>
-
+<img src="{{site.baseurl}}/images/IMG_2205.jpg" alt="Reading image" style="width:50%"/>
 
 

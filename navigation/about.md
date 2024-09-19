@@ -163,7 +163,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 6</div>
-  <img src="../images/nicephoto.jpg" style="width:50%">
+  <img src="../images/IMG_2207.jpg" style="width:50%">
   <div class="text">Caption Two</div>
 </div>
 
