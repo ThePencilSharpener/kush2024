@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+comments: true
 ---
 
 My name is Kush Kharia and I was born on Febuary 6th 2009.
@@ -229,3 +230,15 @@ function showSlides(n) {
 </script>
 
 </body>
+
+
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="ThePencilSharpener/kush2024"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

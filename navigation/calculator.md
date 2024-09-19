@@ -7,13 +7,15 @@ permalink: /calculator/
 ---
 
 
+
+<!-- f0f0f0 -->
 <style>
     body {
         display: flex;
         justify-content: center;
         align-items: center;
         height: 100vh;
-        margin: 0;
+        margin: 80px;
         background-color: #f0f0f0;
         font-family: Arial, sans-serif;
     }
@@ -30,7 +32,7 @@ permalink: /calculator/
         padding: 20px;
         border: none;
         background-color: #222;
-        color: #fff;
+        color: #000;
         font-size: 2em;
         text-align: right;
         box-sizing: border-box;
@@ -44,7 +46,7 @@ permalink: /calculator/
 
     .btn {
         padding: 20px;
-        background-color: #fff;
+        background-color: #000;
         border: none;
         font-size: 1.5em;
         cursor: pointer;
@@ -52,11 +54,11 @@ permalink: /calculator/
     }
 
     .btn:hover {
-        background-color: #f0f0f0;
+        background-color: #008000;
     }
 
     .operator {
-        background-color: #f0f0f0;
+        background-color: #88E788;
     }
 
     .operator:hover {
