@@ -200,7 +200,7 @@ Each bite offers a burst of flavor and texture, making it a favorite for gatheri
 
 
 
-<button type="button" class="dumb" onclick="window.location.href='http://127.0.0.1:4100/student_2025/mypage/';">Click here to go to my Journey page!!</button>
+<button type="button" class="dumb" onclick="window.location.href='http://127.0.0.1:4100/kush2024/mypage/';">Click here to go to my Journey page!!</button>
 
 <style>
   .container {
@@ -294,7 +294,7 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
     <a href="https://thepencilsharpener.github.io/kush2024/2024/09/10/github-playground-hack_IPYNB_2_.html">How I did this</a>
-    <a href="https://thepencilsharpener.github.io/kush2024/2024/09/10/github-javascript-cell_IPYNB_2_.html">Javascript cell</a>
+    <a href="https://thepencilsharpener.github.io/kush2024/javascriptcell/calculator">Javascript cell</a>
     <a href="https://thepencilsharpener.github.io/kush2024/2024/09/10/github-about-me_IPYNB_2_.html">About Me</a>
   </div>
 </div>
