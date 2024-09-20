@@ -50,14 +50,18 @@ permalink: /cookieclicker/
         #upgrade:hover {
             background-color: #45a049;
         }
-    </style>
+    </style>    
+        
+
+
+    
 </head>
 <body>
     <div id="score">Cookies: 0</div>
-    <div id="cookie" onclick="addCookie()"></div>
+    <div id="cookie" onclick="addCookie();playSound()"></div>
+    <!-- <div id="cookie" onclick="playSound()"></div> -->
     <button id="upgrade" onclick="upgrade()">Upgrade (Cost: 10 cookies)</button>
-    <audio controls>
-        <source src="nomnom.mp3">
+    <audio id="sound" src="C:\Users\khari\Downloads\nomnom.mp3"></audio>
     <script>
         let cookies = 0;
         let cookieMultiplier = 1;
@@ -77,6 +81,11 @@ permalink: /cookieclicker/
             } else {
                 alert('Not enough cookies for an upgrade!');
             }
+        }
+        function playSound() {
+            const sound = document.getElementById('sound');
+            sound.currentTime = 0; // Reset sound to start
+            sound.play();
         }
     </script>
 </body>
