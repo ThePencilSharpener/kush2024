@@ -56,6 +56,8 @@ permalink: /cookieclicker/
     <div id="score">Cookies: 0</div>
     <div id="cookie" onclick="addCookie()"></div>
     <button id="upgrade" onclick="upgrade()">Upgrade (Cost: 10 cookies)</button>
+    <audio controls>
+        <source src="nomnom.mp3">
     <script>
         let cookies = 0;
         let cookieMultiplier = 1;

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: This is my website. u better like it. or else 😈
 description: Home Page
 image: /images/mario_animation.png
 ---
@@ -262,12 +262,10 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
   font-size: 16px;
   border: none;
 }
-
 .dropdown {
   position: relative;
   display: inline-block;
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -276,18 +274,14 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
-
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
-
 .dropdown-content a:hover {background-color: #ddd;}
-
 .dropdown:hover .dropdown-content {display: block;}
-
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 </style>
 </head>
@@ -299,9 +293,9 @@ Monkeypox is a rare viral disease caused by the monkeypox virus, which belongs t
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-    <a href="http://127.0.0.1:4100/student_2025/2024/09/10/github-playground-hack_IPYNB_2_.html">How I did this</a>
-    <a href="http://127.0.0.1:4100/student_2025/2024/09/10/github-javascript-cell_IPYNB_2_.html">Javascript cell</a>
-    <a href="http://127.0.0.1:4100/student_2025/2024/09/10/github-about-me_IPYNB_2_.html">About Me</a>
+    <a href="https://thepencilsharpener.github.io/kush2024/2024/09/10/github-javascript-cell_IPYNB_2_.html">How I did this</a>
+    <a href="http://127.0.0.1:4100/kush2024/2024/09/10/github-javascript-cell_IPYNB_2_.html">Javascript cell</a>
+    <a href="http://127.0.0.1:4100/kush2024/2024/09/10/github-about-me_IPYNB_2_.html">About Me</a>
   </div>
 </div>
 
