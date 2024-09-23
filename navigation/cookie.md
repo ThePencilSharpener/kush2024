@@ -58,10 +58,10 @@ permalink: /cookieclicker/
 </head>
 <body>
     <div id="score">Cookies: 0</div>
-    <div id="cookie" onclick="addCookie();playSound()"></div>
+    <div id="cookie" onclick="playSound();addCookie()"></div>
     <!-- <div id="cookie" onclick="playSound()"></div> -->
     <button id="upgrade" onclick="upgrade()">Upgrade (Cost: 10 cookies)</button>
-    <audio id="sound" src="C:\Users\khari\Downloads\nomnom.mp3"></audio>
+    <audio id="sound" src="../sound/nom.mp3"></audio>
     <script>
         let cookies = 0;
         let cookieMultiplier = 1;
