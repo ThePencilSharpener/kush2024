@@ -27,7 +27,7 @@ permalink: /cookieclicker/
         #cookie {
             width: 200px;
             height: 200px;
-            background-color: #e2b000;
+            background-color: #964B00;
             border-radius: 50%;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
             margin-bottom: 20px;
@@ -36,6 +36,7 @@ permalink: /cookieclicker/
         #score {
             font-size: 2em;
             margin-bottom: 20px;
+            color: red;
         }
         #upgrade {
             padding: 10px 20px;
