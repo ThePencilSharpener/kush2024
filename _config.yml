@@ -25,3 +25,4 @@ plugins:
 header_pages:
   - navigation/personal_check.md
   - navigation/project_check.md
+  - navigation/blog.md
