@@ -140,7 +140,7 @@ checked program was:
 
 "x86_64-linux-gnu-gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-3.0.0 -I/usr/include/ruby-3.0.0/ruby/backward -I/usr/include/ruby-3.0.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -ffile-prefix-map=/build/ruby3.0-An8Hc0/ruby3.0-3.0.2=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lcrypto -lssl -lruby-3.0  -lcrypto -lssl -lm   -lc"
 /usr/bin/ld: /tmp/cchpOVP6.o: in function `t':
-/home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/conftest.c:15: undefined reference to `rb_thread_blocking_region'
+/home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/conftest.c:15: undefined reference to `rb_thread_blocking_region'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */
@@ -304,7 +304,7 @@ checked program was:
 
 "x86_64-linux-gnu-gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-3.0.0 -I/usr/include/ruby-3.0.0/ruby/backward -I/usr/include/ruby-3.0.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -ffile-prefix-map=/build/ruby3.0-An8Hc0/ruby3.0-3.0.2=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lcrypto -lssl -lruby-3.0  -lcrypto -lssl -lm   -lc"
 /usr/bin/ld: /tmp/cc2LYyCk.o: in function `t':
-/home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/conftest.c:15: undefined reference to `rb_enable_interrupt'
+/home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/eventmachine-1.2.7/ext/conftest.c:15: undefined reference to `rb_enable_interrupt'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */

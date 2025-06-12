@@ -112,7 +112,7 @@ have_func: checking for _lzcnt_u32() in x86intrin.h... -------------------- no
 
 "x86_64-linux-gnu-gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-3.0.0 -I/usr/include/ruby-3.0.0/ruby/backward -I/usr/include/ruby-3.0.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -ffile-prefix-map=/build/ruby3.0-An8Hc0/ruby3.0-3.0.2=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lruby-3.0  -lm   -lc"
 /usr/bin/ld: /tmp/cc413j7D.o: in function `t':
-/home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal/conftest.c:16: undefined reference to `_lzcnt_u32'
+/home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal/conftest.c:16: undefined reference to `_lzcnt_u32'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */
@@ -171,7 +171,7 @@ have_func: checking for _lzcnt_u64() in x86intrin.h... -------------------- no
 
 "x86_64-linux-gnu-gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-3.0.0 -I/usr/include/ruby-3.0.0/ruby/backward -I/usr/include/ruby-3.0.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -ffile-prefix-map=/build/ruby3.0-An8Hc0/ruby3.0-3.0.2=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lruby-3.0  -lm   -lc"
 /usr/bin/ld: /tmp/ccQza8Uj.o: in function `t':
-/home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal/conftest.c:16: undefined reference to `_lzcnt_u64'
+/home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal/conftest.c:16: undefined reference to `_lzcnt_u64'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */
@@ -568,7 +568,7 @@ checked program was:
 
 "x86_64-linux-gnu-gcc -o conftest -I/usr/include/x86_64-linux-gnu/ruby-3.0.0 -I/usr/include/ruby-3.0.0/ruby/backward -I/usr/include/ruby-3.0.0 -I. -Wdate-time -D_FORTIFY_SOURCE=2   -g -O2 -ffile-prefix-map=/build/ruby3.0-An8Hc0/ruby3.0-3.0.2=. -fstack-protector-strong -Wformat -Werror=format-security -fPIC conftest.c  -L. -L/usr/lib/x86_64-linux-gnu -L. -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -fstack-protector-strong -rdynamic -Wl,-export-dynamic     -lruby-3.0  -lm   -lc"
 /usr/bin/ld: /tmp/cc2sRSCJ.o: in function `t':
-/home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal/conftest.c:17: undefined reference to `__builtin_isfinite'
+/home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.1.8/ext/bigdecimal/conftest.c:17: undefined reference to `__builtin_isfinite'
 collect2: error: ld returned 1 exit status
 checked program was:
 /* begin */

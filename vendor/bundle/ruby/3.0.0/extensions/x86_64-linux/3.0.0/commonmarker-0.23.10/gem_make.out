@@ -1,11 +1,11 @@
-current directory: /home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
 /usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240827-7397-bpjm4j.rb extconf.rb
 creating Makefile
 
-current directory: /home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\= clean
 
-current directory: /home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\=
 compiling arena.c
 compiling autolink.c
@@ -57,6 +57,6 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
-current directory: /home/kushk/nighthawk/kush2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
+current directory: /home/Zaidk/nighthawk/Zaid2024/vendor/bundle/ruby/3.0.0/gems/commonmarker-0.23.10/ext/commonmarker
 make DESTDIR\= install
 /usr/bin/install -c -m 0755 commonmarker.so ./.gem.20240827-7397-u5c7ve/commonmarker
