@@ -23,9 +23,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 header_pages:
-  - navigation/blog.md
-  - navigation/search.md
-  - navigation/about.md
-  - navigation/mypage.md
-  - README4YML.md
-  - navigation/cookie.md
+  - navigation/personal_check.md
+  - navigation/project_check.md
