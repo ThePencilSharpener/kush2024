@@ -1,9 +1,9 @@
 title: Nighthawk Pages 
 description: "Class of 2027"
-owner_name: Zaid Alrefai
+owner_name: Kush Kharia
 github_username: thepencilsharpener
-github_repo: "Zaid2024" 
-baseurl: "/Zaid2024"
+github_repo: "kush2024" 
+baseurl: "/kush2024"
 future: true
 remote_theme: jekyll/minima
 minima:

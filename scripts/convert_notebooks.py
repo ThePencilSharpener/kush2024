@@ -6,7 +6,7 @@ import nbformat
 import yaml
 import sys
 
-print("Zaid Alrefai was here")
+print("kush kharia was here")
 
 # Specify the directory where your Jupyter Notebook files are located
 notebook_directory = "_notebooks"
